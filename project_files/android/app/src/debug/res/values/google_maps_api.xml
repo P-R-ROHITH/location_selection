@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- This value is not used when manifestPlaceholders inject the API key, but
+         it helps Android Studio inspections and provides a place to document. -->
+    <string name="google_maps_key" translatable="false">${MAPS_API_KEY}</string>
+</resources>
